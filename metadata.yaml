@@ -1,0 +1,41 @@
+_repo: The--neids-of-Virgil-Done-into-English-Verse_29358
+_version: 0.1.0
+alternative_title: Aeneids of Virgil, Done into English Verse
+contributor:
+  translator:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Virgil
+    aliases:
+    - Vergilius Maro, Publius
+    - Vergil
+    birthdate: -70
+    deathdate: -19
+    gutenberg_agent_id: '129'
+    url: http://www.gutenberg.org/2009/agents/129
+    wikipedia: http://en.wikipedia.org/wiki/Virgil
+description: ''
+gutenberg_issued: '2009-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Latin -- Translations into English'
+- !lcsh 'Aeneas (Legendary character) -- Poetry'
+- !lcc 'PA'
+title: The Æneids of Virgil, Done into English Verse
+url: http://www.gutenberg.org/ebooks/29358
